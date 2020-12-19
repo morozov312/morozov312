@@ -1,5 +1,5 @@
 ## Hello world :wave:
-Hi,I'm Alexander - a beginning web deveoper. Here, on my GitHub account, I tried to collect the best of my works.   
+Welcome to my page! I'm Alexander - a beginning web deveoper. Here I tried to collect the best of my works.   
 Maybe some will be useful or interesting to you. If you liked any of them - dont forget star it :sparkles:  
 Have a nice day :eyes:   
 ## My skill's
