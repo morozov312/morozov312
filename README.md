@@ -20,4 +20,4 @@ Other:
 ## Some of my GitHub stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=morozov312&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 ## Me on Codewars
-<a href="https://www.codewars.com/users/morozov312" target="_blank"><img src="https://www.codewars.com/users/morozov312/badges/large" alt="bage"></a>
+<a href="https://www.codewars.com/users/morozov312"><img src="https://www.codewars.com/users/morozov312/badges/large" alt="bage"></a>
