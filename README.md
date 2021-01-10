@@ -15,7 +15,7 @@ Web:
 ![](https://img.shields.io/badge/WordPress-CMS-informational?style=flat-square&logo=WordPress&logoColor=white&color=yellow)  
 Other:  
 ![](https://img.shields.io/badge/Git-Tool-informational?style=flat-square&logo=Git&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Terminal-Tool-informational?style=flat-square&logo=Linux&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Terminal-Tool-informational?style=flat-square&logo=PowerShell&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/C-Code-informational?style=flat-square&logo=C&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/C++-Code-informational?style=flat-square&logo=C&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/CMake-Tool-informational?style=flat-square&logo=CMake&logoColor=white&color=yellow)
