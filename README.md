@@ -1,5 +1,5 @@
 ## Hello world :wave:
-Welcome to my page! I'm Alexander - front-end deveoper. Here I sometimes post my pet projects.   
+Welcome to my page! I'm Alexander - Frontend deveoper. Here I sometimes post my pet projects.   
 Maybe some will be useful or interesting to you. If you liked any of them - dont forget star it :sparkles:  
 Have a nice day :eyes:   
 ## My stack
