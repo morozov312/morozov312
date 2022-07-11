@@ -13,6 +13,7 @@ Main:
 Other:  
 ![](https://img.shields.io/badge/Git-Tool-informational?style=flat-square&logo=Git&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Bash-Tool-informational?style=flat-square&logo=PowerShell&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/GitLabCI/CD-Tool-informational?style=flat-square&logo=GitHubActions&color=yellow&logoColor=white)
 ![](https://img.shields.io/badge/SQL-Code-informational?style=flat-square&logo=AmazonDynamoDB&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/C++-Code-informational?style=flat-square&logo=C&logoColor=white&color=yellow)
 
