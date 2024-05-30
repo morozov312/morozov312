@@ -1,6 +1,14 @@
-## Hello world :wave:
-Welcome to my page! I'm Alexander - Frontend deveoper. Here I sometimes post my pet projects.   
+## Welcome to my page! :wave:
+I'm Alexander - frontend developer with over 4 years of practice in creating web applications 
+using React. 🚀  
+Open to remote work opportunities or relocation. 🌍  
+I have experience working in multilingual teams. Proficient in crafting user-friendly and appealing interfaces based on provided design layouts. I specialize in developing modern and high-performance client-server applications that meet business expectations and user needs. 👨‍💻  
+Ready to take on the role of a lead developer and improve processes within the company. 📈  
+I hold a bachelor's degree in Computer Science and fluent in English at a B2 level.  🎓  
+
+Here I sometimes post my pet projects.   
 Maybe some will be useful or interesting to you. If you liked any of them - dont forget star it :sparkles:  
+
 Have a nice day :eyes:   
 ## My stack
 Main:  
