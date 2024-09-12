@@ -1,5 +1,5 @@
 ## Welcome to my page! :wave:
-I'm Alexander - frontend developer with over 4 years of practice in creating web applications 
+I'm Alexander - frontend developer with over 5 years of practice in creating web applications 
 using React. 🚀  
 Open to remote work opportunities or relocation. 🌍  
 I have experience working in multilingual teams. Proficient in crafting user-friendly and appealing interfaces based on provided design layouts. I specialize in developing modern and high-performance client-server applications that meet business expectations and user needs. 👨‍💻  
